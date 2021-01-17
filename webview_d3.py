@@ -1,5 +1,6 @@
-#
-# Requeries networkx and pywebview (pip3 install networkx pywebview)
+# Author: Marcello Salvati, Twitter: @byt3bl33d3r
+# License: The Unlicense (https://unlicense.org/)
+# 
 # References:
 #   - https://ipython-books.github.io/64-visualizing-a-networkx-graph-in-the-notebook-with-d3js/
 
