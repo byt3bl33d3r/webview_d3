@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "webview_d3"
+version = "0.1.0"
+description = ""
+authors = ["byt3bl33d3r <byt3bl33d3r@pm.me>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+networkx = "^2.5"
+pywebview = "^3.4"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
